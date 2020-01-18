@@ -1,12 +1,12 @@
-package com.tuation.admin.service;
+package com.tuation.admin.main;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdminServiceApplication {
+public class AdminApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AdminServiceApplication.class, args);
+		SpringApplication.run(AdminApplication.class, args);
 	}
 
 }

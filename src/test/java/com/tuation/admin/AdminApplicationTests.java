@@ -1,9 +1,9 @@
-package com.tuation.admin.service;
+package com.tuation.admin;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AdminServiceApplicationTests {
+class AdminApplicationTests {
 
 	@Test
 	void contextLoads() {
